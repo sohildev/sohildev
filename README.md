@@ -1,4 +1,4 @@
-https://sohil.ga/
+https://sohil.ml/
 
 - 👋 Hi, I’m @sohildev
 - 👀 I’m interested in ...
