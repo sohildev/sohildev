@@ -1,4 +1,4 @@
-https://sohil.ml/
+[https://sohil.ml/](https://sohilymansuri.github.io/sohil)
 
 - 👋 Hi, I’m @sohildev
 - 👀 I’m interested in ...
